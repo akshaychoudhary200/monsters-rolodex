@@ -1,0 +1,11 @@
+.card-container {
+  background-color: aliceblue;
+  border: 5px solid;
+  cursor: pointer;
+  transform: translate3d(1.05);
+  font-family: monospace;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
